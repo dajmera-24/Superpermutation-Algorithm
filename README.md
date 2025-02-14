@@ -2,6 +2,8 @@
 This repository contains the Java implementation of my O(n) space algorithm for constructing 
 superpermutations, significantly improving upon previous O(n!) space methods (with some runtime improvements as well).
 
+This algorithm outputs a .txt file containing the entire sequence.
+
 This approach allowed me to generate the n = 14 superpermutation (93.9 billion characters) 
 in ~15 minutes on a personal computer. 
 
