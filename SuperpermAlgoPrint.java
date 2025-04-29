@@ -29,7 +29,7 @@ public class SuperpermAlgoPrint {
    }
    
    public void algo(int d) {
-      if (d==n) {return;}
+      if (d>=n) {return;}
       for (int i = 0; i < d; i++) {
          algo(d+1);
          intersect = d-1;
