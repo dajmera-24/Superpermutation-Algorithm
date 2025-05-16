@@ -1,7 +1,7 @@
 Overview
 --------
 This program generates a superpermutation sequence for a given set of n distinct symbols. 
-It implements a custom construction algorithm described in the accompanying paper submitted to Algorithmica.
+It implements a custom construction algorithm described in the accompanying paper: https://arxiv.org/abs/2505.09628#
 
 The output is written to a file named: superperm_n{n}.txt, where {n} is the number of input symbols.
 
